@@ -4,7 +4,7 @@ import SimpleTabs from "./components/modules/menu";
 
 function App() {
   return (
-    <div className="App container-image">
+    <div className="App container-image container-image">
       <SimpleTabs />
     </div>
   );
